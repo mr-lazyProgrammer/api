@@ -3,24 +3,55 @@
     "id": 1,
     "name": "Action",
     "created_at": "2025-06-12T07:01:31.000000Z",
-    "updated_at": "2025-06-12T07:01:31.000000Z"
+    "updated_at": "2025-06-12T07:01:31.000000Z",
+    "movie": [
+      {
+        "id": 1,
+        "category_id": 1,
+        "name": "Elemental 2",
+        "image": "https://pradt.co/media/c-elemental.jpg",
+        "date": "2023",
+        "imdb": "7/10",
+        "intro": "Elemental is a film about fire and water elements who fall in love in a city of anthropomorphic elements. The film explores themes of identity, culture, and environmentalism, and features the …",
+        "playLink": "https://google.com",
+        "downloadLink": "https://google.com",
+        "created_at": "2025-06-12T07:23:27.000000Z",
+        "updated_at": "2025-06-15T01:15:33.000000Z"
+      }
+    ]
   },
   {
     "id": 2,
     "name": "Comedy",
     "created_at": "2025-06-12T07:20:16.000000Z",
-    "updated_at": "2025-06-12T07:20:16.000000Z"
-  },
-{
-    "id": 3,
-    "name": "Drama",
-    "created_at": "2025-06-12T07:20:16.000000Z",
-    "updated_at": "2025-06-12T07:20:16.000000Z"
-  },
-{
-    "id": 4,
-    "name": "Cartoon",
-    "created_at": "2025-06-12T07:20:16.000000Z",
-    "updated_at": "2025-06-12T07:20:16.000000Z"
+    "updated_at": "2025-06-12T07:20:16.000000Z",
+    "movie": [
+      {
+        "id": 2,
+        "category_id": 2,
+        "name": "Elemental 3",
+        "image": "https://pradt.co/media/c-elemental.jpg",
+        "date": "2023",
+        "imdb": "7/10",
+        "intro": "Elemental is a film about fire and water elements who fall in love in a city of anthropomorphic elements. The film explores themes of identity, culture, and environmentalism, and features the …",
+        "playLink": "https://google.com",
+        "downloadLink": "https://google.com",
+        "created_at": "2025-06-13T07:09:23.000000Z",
+        "updated_at": "2025-06-15T01:15:20.000000Z"
+      },
+      {
+        "id": 3,
+        "category_id": 2,
+        "name": "Elemental 1",
+        "image": "https://pradt.co/media/c-elemental.jpg",
+        "date": "2023",
+        "imdb": "7/10",
+        "intro": "Elemental is a film about fire and water elements who fall in love in a city of anthropomorphic elements. The film explores themes of identity, culture, and environmentalism, and features the …",
+        "playLink": "https://google.com",
+        "downloadLink": "https://google.com",
+        "created_at": "2025-06-13T07:09:51.000000Z",
+        "updated_at": "2025-06-15T01:15:00.000000Z"
+      }
+    ]
   }
 ]
