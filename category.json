@@ -6,56 +6,43 @@
     "updated_at": "2025-06-12T07:01:31.000000Z",
     "movie": [
       {
-        "id": 1,
+        "id": 11,
         "category_id": 1,
-        "name": "Elemental 2",
-        "image": "https://pradt.co/media/c-elemental.jpg",
-        "date": "2023",
-        "imdb": "7/10",
-        "intro": "Elemental is a film about fire and water elements who fall in love in a city of anthropomorphic elements. The film explores themes of identity, culture, and environmentalism, and features the …",
-        "playLink": "https://google.com",
-        "downloadLink": "https://google.com",
-        "created_at": "2025-06-12T07:23:27.000000Z",
-        "updated_at": "2025-06-15T01:15:33.000000Z"
+        "name": "Flipped",
+        "image": "https://tse2.mm.bing.net/th/id/OIP.yCU5EPKNFf30tYOfI36Q7gHaLH?rs=1&pid=ImgDetMain&o=7&rm=3",
+        "date": "2010",
+        "imdb": "7.7/10",
+        "intro": "Flipped is a 2010 American romantic comedy-drama film co-written and directed by Rob Reiner, and based on Wendelin Van Draanen's 2001 novel of the same name. Starring Callan McAuliffe, Madeline Carroll, Rebecca De Mornay, Anthony Edwards, John Mahoney, Penelope Ann Miller, Aidan Quinn, and Kevin Weisman, the film tells the story of two eighth graders who start to have feelings for each other, despite being total opposites. Flipped was released in theaters in the United States on August 6, 2010, by Warner Bros. Pictures. It garnered lukewarm reviews from critics and grossed $4.3 million against a $14 million budget. It has since garnered a greater appreciation for its realistic portrayal of teenagers and a wider viewership via home video and streaming services, so much so that it is now considered a cult favorite.",
+        "playLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "downloadLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "created_at": "2025-06-29T07:28:48.000000Z",
+        "updated_at": "2025-06-29T07:28:48.000000Z"
       },
       {
-        "id": 4,
+        "id": 12,
         "category_id": 1,
-        "name": "Elemental 2",
-        "image": "https://pradt.co/media/c-elemental.jpg",
-        "date": "2023",
-        "imdb": "7/10",
-        "intro": "Elemental is a film about fire and water elements who fall in love in a city of anthropomorphic elements. The film explores themes of identity, culture, and environmentalism, and features the …",
-        "playLink": "https://google.com",
-        "downloadLink": "https://google.com",
-        "created_at": "2025-06-15T19:45:15.000000Z",
-        "updated_at": "2025-06-15T19:45:15.000000Z"
+        "name": "Flipped",
+        "image": "https://tse2.mm.bing.net/th/id/OIP.yCU5EPKNFf30tYOfI36Q7gHaLH?rs=1&pid=ImgDetMain&o=7&rm=3",
+        "date": "2010",
+        "imdb": "7.7/10",
+        "intro": "Flipped is a 2010 American romantic comedy-drama film co-written and directed by Rob Reiner, and based on Wendelin Van Draanen's 2001 novel of the same name. Starring Callan McAuliffe, Madeline Carroll, Rebecca De Mornay, Anthony Edwards, John Mahoney, Penelope Ann Miller, Aidan Quinn, and Kevin Weisman, the film tells the story of two eighth graders who start to have feelings for each other, despite being total opposites. Flipped was released in theaters in the United States on August 6, 2010, by Warner Bros. Pictures. It garnered lukewarm reviews from critics and grossed $4.3 million against a $14 million budget. It has since garnered a greater appreciation for its realistic portrayal of teenagers and a wider viewership via home video and streaming services, so much so that it is now considered a cult favorite.",
+        "playLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "downloadLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "created_at": "2025-06-29T07:28:59.000000Z",
+        "updated_at": "2025-06-29T07:28:59.000000Z"
       },
       {
-        "id": 5,
+        "id": 13,
         "category_id": 1,
-        "name": "Elemental",
-        "image": "https://pradt.co/media/c-elemental.jpg",
-        "date": "2023",
-        "imdb": "7/10",
-        "intro": "Elemental is a film about fire and water elements who fall in love in a city of anthropomorphic elements. The film explores themes of identity, culture, and environmentalism, and features the …",
-        "playLink": "https://google.com",
-        "downloadLink": "https://google.com",
-        "created_at": "2025-06-15T19:45:56.000000Z",
-        "updated_at": "2025-06-15T19:45:56.000000Z"
-      },
-      {
-        "id": 6,
-        "category_id": 1,
-        "name": "Elemental",
-        "image": "https://pradt.co/media/c-elemental.jpg",
-        "date": "2023",
-        "imdb": "7/10",
-        "intro": "Elemental is a film about fire and water elements who fall in love in a city of anthropomorphic elements. The film explores themes of identity, culture, and environmentalism, and features the …",
-        "playLink": "https://google.com",
-        "downloadLink": "https://google.com",
-        "created_at": "2025-06-15T19:46:23.000000Z",
-        "updated_at": "2025-06-15T19:46:23.000000Z"
+        "name": "Flipped",
+        "image": "https://tse2.mm.bing.net/th/id/OIP.yCU5EPKNFf30tYOfI36Q7gHaLH?rs=1&pid=ImgDetMain&o=7&rm=3",
+        "date": "2010",
+        "imdb": "7.7/10",
+        "intro": "Flipped is a 2010 American romantic comedy-drama film co-written and directed by Rob Reiner, and based on Wendelin Van Draanen's 2001 novel of the same name. Starring Callan McAuliffe, Madeline Carroll, Rebecca De Mornay, Anthony Edwards, John Mahoney, Penelope Ann Miller, Aidan Quinn, and Kevin Weisman, the film tells the story of two eighth graders who start to have feelings for each other, despite being total opposites. Flipped was released in theaters in the United States on August 6, 2010, by Warner Bros. Pictures. It garnered lukewarm reviews from critics and grossed $4.3 million against a $14 million budget. It has since garnered a greater appreciation for its realistic portrayal of teenagers and a wider viewership via home video and streaming services, so much so that it is now considered a cult favorite.",
+        "playLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "downloadLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "created_at": "2025-06-29T07:29:10.000000Z",
+        "updated_at": "2025-06-29T07:29:10.000000Z"
       }
     ]
   },
@@ -66,56 +53,69 @@
     "updated_at": "2025-06-12T07:20:16.000000Z",
     "movie": [
       {
-        "id": 2,
+        "id": 10,
         "category_id": 2,
-        "name": "Elemental 3",
-        "image": "https://pradt.co/media/c-elemental.jpg",
-        "date": "2023",
-        "imdb": "7/10",
-        "intro": "Elemental is a film about fire and water elements who fall in love in a city of anthropomorphic elements. The film explores themes of identity, culture, and environmentalism, and features the …",
-        "playLink": "https://google.com",
-        "downloadLink": "https://google.com",
-        "created_at": "2025-06-13T07:09:23.000000Z",
-        "updated_at": "2025-06-15T01:15:20.000000Z"
+        "name": "Flipped",
+        "image": "https://tse2.mm.bing.net/th/id/OIP.yCU5EPKNFf30tYOfI36Q7gHaLH?rs=1&pid=ImgDetMain&o=7&rm=3",
+        "date": "2010",
+        "imdb": "7.7/10",
+        "intro": "Flipped is a 2010 American romantic comedy-drama film co-written and directed by Rob Reiner, and based on Wendelin Van Draanen's 2001 novel of the same name. Starring Callan McAuliffe, Madeline Carroll, Rebecca De Mornay, Anthony Edwards, John Mahoney, Penelope Ann Miller, Aidan Quinn, and Kevin Weisman, the film tells the story of two eighth graders who start to have feelings for each other, despite being total opposites. Flipped was released in theaters in the United States on August 6, 2010, by Warner Bros. Pictures. It garnered lukewarm reviews from critics and grossed $4.3 million against a $14 million budget. It has since garnered a greater appreciation for its realistic portrayal of teenagers and a wider viewership via home video and streaming services, so much so that it is now considered a cult favorite.",
+        "playLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "downloadLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "created_at": "2025-06-29T07:27:52.000000Z",
+        "updated_at": "2025-06-29T07:27:52.000000Z"
       },
       {
-        "id": 3,
+        "id": 14,
         "category_id": 2,
-        "name": "Elemental 1",
-        "image": "https://pradt.co/media/c-elemental.jpg",
-        "date": "2023",
-        "imdb": "7/10",
-        "intro": "Elemental is a film about fire and water elements who fall in love in a city of anthropomorphic elements. The film explores themes of identity, culture, and environmentalism, and features the …",
-        "playLink": "https://google.com",
-        "downloadLink": "https://google.com",
-        "created_at": "2025-06-13T07:09:51.000000Z",
-        "updated_at": "2025-06-15T01:15:00.000000Z"
+        "name": "Flipped",
+        "image": "https://tse2.mm.bing.net/th/id/OIP.yCU5EPKNFf30tYOfI36Q7gHaLH?rs=1&pid=ImgDetMain&o=7&rm=3",
+        "date": "2010",
+        "imdb": "7.7/10",
+        "intro": "Flipped is a 2010 American romantic comedy-drama film co-written and directed by Rob Reiner, and based on Wendelin Van Draanen's 2001 novel of the same name. Starring Callan McAuliffe, Madeline Carroll, Rebecca De Mornay, Anthony Edwards, John Mahoney, Penelope Ann Miller, Aidan Quinn, and Kevin Weisman, the film tells the story of two eighth graders who start to have feelings for each other, despite being total opposites. Flipped was released in theaters in the United States on August 6, 2010, by Warner Bros. Pictures. It garnered lukewarm reviews from critics and grossed $4.3 million against a $14 million budget. It has since garnered a greater appreciation for its realistic portrayal of teenagers and a wider viewership via home video and streaming services, so much so that it is now considered a cult favorite.",
+        "playLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "downloadLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "created_at": "2025-06-29T07:29:22.000000Z",
+        "updated_at": "2025-06-29T07:29:22.000000Z"
       },
       {
-        "id": 7,
+        "id": 15,
         "category_id": 2,
-        "name": "Elemental",
-        "image": "https://pradt.co/media/c-elemental.jpg",
-              "date": "2023",
-        "imdb": "7/10",
-        "intro": "Elemental is a film about fire and water elements who fall in love in a city of anthropomorphic elements. The film explores themes of identity, culture, and environmentalism, and features the …",
-        "playLink": "https://google.com",
-        "downloadLink": "https://google.com",
-        "created_at": "2025-06-15T19:46:43.000000Z",
-        "updated_at": "2025-06-15T19:46:43.000000Z"
+        "name": "Flipped",
+        "image": "https://tse2.mm.bing.net/th/id/OIP.yCU5EPKNFf30tYOfI36Q7gHaLH?rs=1&pid=ImgDetMain&o=7&rm=3",
+        "date": "2010",
+        "imdb": "7.7/10",
+        "intro": "Flipped is a 2010 American romantic comedy-drama film co-written and directed by Rob Reiner, and based on Wendelin Van Draanen's 2001 novel of the same name. Starring Callan McAuliffe, Madeline Carroll, Rebecca De Mornay, Anthony Edwards, John Mahoney, Penelope Ann Miller, Aidan Quinn, and Kevin Weisman, the film tells the story of two eighth graders who start to have feelings for each other, despite being total opposites. Flipped was released in theaters in the United States on August 6, 2010, by Warner Bros. Pictures. It garnered lukewarm reviews from critics and grossed $4.3 million against a $14 million budget. It has since garnered a greater appreciation for its realistic portrayal of teenagers and a wider viewership via home video and streaming services, so much so that it is now considered a cult favorite.",
+        "playLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "downloadLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "created_at": "2025-06-29T07:29:35.000000Z",
+        "updated_at": "2025-06-29T07:29:35.000000Z"
       },
-{
-        "id": 9,
+      {
+        "id": 16,
         "category_id": 2,
-        "name": "Elemental",
-        "image": "https://pradt.co/media/c-elemental.jpg",
-        "date": "2023",
-        "imdb": "7/10",
-        "intro": "Elemental is a film about fire and water elements who fall in love in a city of anthropomorphic elements. The film explores themes of identity, culture, and environmentalism, and features the …",
-        "playLink": "https://google.com",
-        "downloadLink": "https://google.com",
-        "created_at": "2025-06-15T19:46:43.000000Z",
-        "updated_at": "2025-06-15T19:46:43.000000Z"
+        "name": "Flipped",
+        "image": "https://tse2.mm.bing.net/th/id/OIP.yCU5EPKNFf30tYOfI36Q7gHaLH?rs=1&pid=ImgDetMain&o=7&rm=3",
+        "date": "2010",
+        "imdb": "7.7/10",
+        "intro": "Flipped is a 2010 American romantic comedy-drama film co-written and directed by Rob Reiner, and based on Wendelin Van Draanen's 2001 novel of the same name. Starring Callan McAuliffe, Madeline Carroll, Rebecca De Mornay, Anthony Edwards, John Mahoney, Penelope Ann Miller, Aidan Quinn, and Kevin Weisman, the film tells the story of two eighth graders who start to have feelings for each other, despite being total opposites. Flipped was released in theaters in the United States on August 6, 2010, by Warner Bros. Pictures. It garnered lukewarm reviews from critics and grossed $4.3 million against a $14 million budget. It has since garnered a greater appreciation for its realistic portrayal of teenagers and a wider viewership via home video and streaming services, so much so that it is now considered a cult favorite.",
+        "playLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "downloadLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "created_at": "2025-06-29T07:29:45.000000Z",
+        "updated_at": "2025-06-29T07:29:45.000000Z"
+      },
+      {
+        "id": 17,
+        "category_id": 2,
+        "name": "Flipped",
+        "image": "https://tse2.mm.bing.net/th/id/OIP.yCU5EPKNFf30tYOfI36Q7gHaLH?rs=1&pid=ImgDetMain&o=7&rm=3",
+        "date": "2010",
+        "imdb": "7.7/10",
+        "intro": "Flipped is a 2010 American romantic comedy-drama film co-written and directed by Rob Reiner, and based on Wendelin Van Draanen's 2001 novel of the same name. Starring Callan McAuliffe, Madeline Carroll, Rebecca De Mornay, Anthony Edwards, John Mahoney, Penelope Ann Miller, Aidan Quinn, and Kevin Weisman, the film tells the story of two eighth graders who start to have feelings for each other, despite being total opposites. Flipped was released in theaters in the United States on August 6, 2010, by Warner Bros. Pictures. It garnered lukewarm reviews from critics and grossed $4.3 million against a $14 million budget. It has since garnered a greater appreciation for its realistic portrayal of teenagers and a wider viewership via home video and streaming services, so much so that it is now considered a cult favorite.",
+        "playLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "downloadLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "created_at": "2025-06-29T07:29:56.000000Z",
+        "updated_at": "2025-06-29T07:29:56.000000Z"
       }
     ]
   },
@@ -126,56 +126,30 @@
     "updated_at": "2025-06-15T19:43:55.000000Z",
     "movie": [
       {
-        "id": 8,
+        "id": 18,
         "category_id": 3,
-        "name": "Elemental",
-        "image": "https://pradt.co/media/c-elemental.jpg",
-        "date": "2023",
-        "imdb": "7/10",
-        "intro": "Elemental is a film about fire and water elements who fall in love in a city of anthropomorphic elements. The film explores themes of identity, culture, and environmentalism, and features the …",
-        "playLink": "https://google.com",
-        "downloadLink": "https://google.com",
-        "created_at": "2025-06-15T19:47:05.000000Z",
-        "updated_at": "2025-06-15T19:47:05.000000Z"
+        "name": "Flipped",
+        "image": "https://tse2.mm.bing.net/th/id/OIP.yCU5EPKNFf30tYOfI36Q7gHaLH?rs=1&pid=ImgDetMain&o=7&rm=3",
+        "date": "2010",
+        "imdb": "7.7/10",
+        "intro": "Flipped is a 2010 American romantic comedy-drama film co-written and directed by Rob Reiner, and based on Wendelin Van Draanen's 2001 novel of the same name. Starring Callan McAuliffe, Madeline Carroll, Rebecca De Mornay, Anthony Edwards, John Mahoney, Penelope Ann Miller, Aidan Quinn, and Kevin Weisman, the film tells the story of two eighth graders who start to have feelings for each other, despite being total opposites. Flipped was released in theaters in the United States on August 6, 2010, by Warner Bros. Pictures. It garnered lukewarm reviews from critics and grossed $4.3 million against a $14 million budget. It has since garnered a greater appreciation for its realistic portrayal of teenagers and a wider viewership via home video and streaming services, so much so that it is now considered a cult favorite.",
+        "playLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "downloadLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "created_at": "2025-06-29T07:30:09.000000Z",
+        "updated_at": "2025-06-29T07:30:09.000000Z"
       },
-{
-        "id": 10,
+      {
+        "id": 19,
         "category_id": 3,
-        "name": "Elemental",
-        "image": "https://pradt.co/media/c-elemental.jpg",
-        "date": "2023",
-        "imdb": "7/10",
-        "intro": "Elemental is a film about fire and water elements who fall in love in a city of anthropomorphic elements. The film explores themes of identity, culture, and environmentalism, and features the …",
-        "playLink": "https://google.com",
-        "downloadLink": "https://google.com",
-        "created_at": "2025-06-15T19:46:43.000000Z",
-        "updated_at": "2025-06-15T19:46:43.000000Z"
-      },
-{
-        "id": 11,
-        "category_id": 3,
-        "name": "Elemental",
-        "image": "https://pradt.co/media/c-elemental.jpg",
-        "date": "2023",
-        "imdb": "7/10",
-        "intro": "Elemental is a film about fire and water elements who fall in love in a city of anthropomorphic elements. The film explores themes of identity, culture, and environmentalism, and features the …",
-        "playLink": "https://google.com",
-        "downloadLink": "https://google.com",
-        "created_at": "2025-06-15T19:46:43.000000Z",
-        "updated_at": "2025-06-15T19:46:43.000000Z"
-      },
-{
-        "id": 12,
-        "category_id": 3,
-        "name": "Elemental",
-        "image": "https://pradt.co/media/c-elemental.jpg",
-        "date": "2023",
-        "imdb": "7/10",
-        "intro": "Elemental is a film about fire and water elements who fall in love in a city of anthropomorphic elements. The film explores themes of identity, culture, and environmentalism, and features the …",
-        "playLink": "https://google.com",
-        "downloadLink": "https://google.com",
-        "created_at": "2025-06-15T19:46:43.000000Z",
-        "updated_at": "2025-06-15T19:46:43.000000Z"
+        "name": "Flipped",
+        "image": "https://tse2.mm.bing.net/th/id/OIP.yCU5EPKNFf30tYOfI36Q7gHaLH?rs=1&pid=ImgDetMain&o=7&rm=3",
+        "date": "2010",
+        "imdb": "7.7/10",
+        "intro": "Flipped is a 2010 American romantic comedy-drama film co-written and directed by Rob Reiner, and based on Wendelin Van Draanen's 2001 novel of the same name. Starring Callan McAuliffe, Madeline Carroll, Rebecca De Mornay, Anthony Edwards, John Mahoney, Penelope Ann Miller, Aidan Quinn, and Kevin Weisman, the film tells the story of two eighth graders who start to have feelings for each other, despite being total opposites. Flipped was released in theaters in the United States on August 6, 2010, by Warner Bros. Pictures. It garnered lukewarm reviews from critics and grossed $4.3 million against a $14 million budget. It has since garnered a greater appreciation for its realistic portrayal of teenagers and a wider viewership via home video and streaming services, so much so that it is now considered a cult favorite.",
+        "playLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "downloadLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "created_at": "2025-06-29T07:30:26.000000Z",
+        "updated_at": "2025-06-29T07:30:26.000000Z"
       }
     ]
   },
@@ -185,62 +159,33 @@
     "created_at": "2025-06-15T19:44:15.000000Z",
     "updated_at": "2025-06-15T19:44:15.000000Z",
     "movie": [
-{
-        "id": 13,
+      {
+        "id": 20,
         "category_id": 4,
-        "name": "Elemental",
-        "image": "https://pradt.co/media/c-elemental.jpg",
-        "date": "2023",
-        "imdb": "7/10",
-        "intro": "Elemental is a film about fire and water elements who fall in love in a city of anthropomorphic elements. The film explores themes of identity, culture, and environmentalism, and features the …",
-        "playLink": "https://google.com",
-        "downloadLink": "https://google.com",
-        "created_at": "2025-06-15T19:46:43.000000Z",
-        "updated_at": "2025-06-15T19:46:43.000000Z"
+        "name": "Flipped",
+        "image": "https://tse2.mm.bing.net/th/id/OIP.yCU5EPKNFf30tYOfI36Q7gHaLH?rs=1&pid=ImgDetMain&o=7&rm=3",
+        "date": "2010",
+        "imdb": "7.7/10",
+        "intro": "Flipped is a 2010 American romantic comedy-drama film co-written and directed by Rob Reiner, and based on Wendelin Van Draanen's 2001 novel of the same name. Starring Callan McAuliffe, Madeline Carroll, Rebecca De Mornay, Anthony Edwards, John Mahoney, Penelope Ann Miller, Aidan Quinn, and Kevin Weisman, the film tells the story of two eighth graders who start to have feelings for each other, despite being total opposites. Flipped was released in theaters in the United States on August 6, 2010, by Warner Bros. Pictures. It garnered lukewarm reviews from critics and grossed $4.3 million against a $14 million budget. It has since garnered a greater appreciation for its realistic portrayal of teenagers and a wider viewership via home video and streaming services, so much so that it is now considered a cult favorite.",
+        "playLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "downloadLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "created_at": "2025-06-29T07:30:45.000000Z",
+        "updated_at": "2025-06-29T07:30:45.000000Z"
       },
-{
-        "id": 14,
+      {
+        "id": 21,
         "category_id": 4,
-        "name": "Elemental",
-        "image": "https://pradt.co/media/c-elemental.jpg",
-        "date": "2023",
-        "imdb": "7/10",
-        "intro": "Elemental is a film about fire and water elements who fall in love in a city of anthropomorphic elements. The film explores themes of identity, culture, and environmentalism, and features the …",
-        "playLink": "https://google.com",
-        "downloadLink": "https://google.com",
-        "created_at": "2025-06-15T19:46:43.000000Z",
-        "updated_at": "2025-06-15T19:46:43.000000Z"
-      },
-{
-        "id": 15,
-        "category_id": 4,
-        "name": "Elemental",
-        "image": "https://pradt.co/media/c-elemental.jpg",
-        "date": "2023",
-        "imdb": "7/10",
-        "intro": "Elemental is a film about fire and water elements who fall in love in a city of anthropomorphic elements. The film explores themes of identity, culture, and environmentalism, and features the …",
-        "playLink": "https://google.com",
-        "downloadLink": "https://google.com",
-        "created_at": "2025-06-15T19:46:43.000000Z",
-        "updated_at": "2025-06-15T19:46:43.000000Z"
-      },
-{
-        "id": 16,
-        "category_id": 4,
-        "name": "Elemental",
-        "image": "https://pradt.co/media/c-elemental.jpg",
-        "date": "2023",
-        "imdb": "7/10",
-        "intro": "Elemental is a film about fire and water elements who fall in love in a city of anthropomorphic elements. The film explores themes of identity, culture, and environmentalism, and features the …",
-        "playLink": "https://google.com",
-        "downloadLink": "https://google.com",
-        "created_at": "2025-06-15T19:46:43.000000Z",
-        "updated_at": "2025-06-15T19:46:43.000000Z"
+        "name": "Flipped",
+        "image": "https://tse2.mm.bing.net/th/id/OIP.yCU5EPKNFf30tYOfI36Q7gHaLH?rs=1&pid=ImgDetMain&o=7&rm=3",
+        "date": "2010",
+        "imdb": "7.7/10",
+        "intro": "Flipped is a 2010 American romantic comedy-drama film co-written and directed by Rob Reiner, and based on Wendelin Van Draanen's 2001 novel of the same name. Starring Callan McAuliffe, Madeline Carroll, Rebecca De Mornay, Anthony Edwards, John Mahoney, Penelope Ann Miller, Aidan Quinn, and Kevin Weisman, the film tells the story of two eighth graders who start to have feelings for each other, despite being total opposites. Flipped was released in theaters in the United States on August 6, 2010, by Warner Bros. Pictures. It garnered lukewarm reviews from critics and grossed $4.3 million against a $14 million budget. It has since garnered a greater appreciation for its realistic portrayal of teenagers and a wider viewership via home video and streaming services, so much so that it is now considered a cult favorite.",
+        "playLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "downloadLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "created_at": "2025-06-29T07:30:59.000000Z",
+        "updated_at": "2025-06-29T07:30:59.000000Z"
       }
-
-
-
-]
+    ]
   },
   {
     "id": 5,
@@ -248,40 +193,79 @@
     "created_at": "2025-06-15T19:44:22.000000Z",
     "updated_at": "2025-06-15T19:44:22.000000Z",
     "movie": [
-{
-        "id": 17,
+      {
+        "id": 9,
         "category_id": 5,
-        "name": "Elemental",
-        "image": "https://pradt.co/media/c-elemental.jpg",
-        "date": "2023",
-        "imdb": "7/10",
-        "intro": "Elemental is a film about fire and water elements who fall in love in a city of anthropomorphic elements. The film explores themes of identity, culture, and environmentalism, and features the …",
-        "playLink": "https://google.com",
-        "downloadLink": "https://google.com",
-        "created_at": "2025-06-15T19:46:43.000000Z",
-        "updated_at": "2025-06-15T19:46:43.000000Z"
+        "name": "Flipped",
+        "image": "https://tse2.mm.bing.net/th/id/OIP.yCU5EPKNFf30tYOfI36Q7gHaLH?rs=1&pid=ImgDetMain&o=7&rm=3",
+        "date": "2010",
+        "imdb": "7.7/10",
+        "intro": "Flipped is a 2010 American romantic comedy-drama film co-written and directed by Rob Reiner, and based on Wendelin Van Draanen's 2001 novel of the same name. Starring Callan McAuliffe, Madeline Carroll, Rebecca De Mornay, Anthony Edwards, John Mahoney, Penelope Ann Miller, Aidan Quinn, and Kevin Weisman, the film tells the story of two eighth graders who start to have feelings for each other, despite being total opposites. Flipped was released in theaters in the United States on August 6, 2010, by Warner Bros. Pictures. It garnered lukewarm reviews from critics and grossed $4.3 million against a $14 million budget. It has since garnered a greater appreciation for its realistic portrayal of teenagers and a wider viewership via home video and streaming services, so much so that it is now considered a cult favorite.",
+        "playLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "downloadLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "created_at": "2025-06-29T07:26:03.000000Z",
+        "updated_at": "2025-06-29T07:26:03.000000Z"
       },
-{
-        "id": 18,
+      {
+        "id": 25,
         "category_id": 5,
-        "name": "Elemental",
-        "image": "https://pradt.co/media/c-elemental.jpg",
-        "date": "2023",
-        "imdb": "7/10",
-        "intro": "Elemental is a film about fire and water elements who fall in love in a city of anthropomorphic elements. The film explores themes of identity, culture, and environmentalism, and features the …",
-        "playLink": "https://google.com",
-        "downloadLink": "https://google.com",
-        "created_at": "2025-06-15T19:46:43.000000Z",
-        "updated_at": "2025-06-15T19:46:43.000000Z"
+        "name": "Flipped",
+        "image": "https://tse2.mm.bing.net/th/id/OIP.yCU5EPKNFf30tYOfI36Q7gHaLH?rs=1&pid=ImgDetMain&o=7&rm=3",
+        "date": "2010",
+        "imdb": "7.7/10",
+        "intro": "Flipped is a 2010 American romantic comedy-drama film co-written and directed by Rob Reiner, and based on Wendelin Van Draanen's 2001 novel of the same name. Starring Callan McAuliffe, Madeline Carroll, Rebecca De Mornay, Anthony Edwards, John Mahoney, Penelope Ann Miller, Aidan Quinn, and Kevin Weisman, the film tells the story of two eighth graders who start to have feelings for each other, despite being total opposites. Flipped was released in theaters in the United States on August 6, 2010, by Warner Bros. Pictures. It garnered lukewarm reviews from critics and grossed $4.3 million against a $14 million budget. It has since garnered a greater appreciation for its realistic portrayal of teenagers and a wider viewership via home video and streaming services, so much so that it is now considered a cult favorite.",
+        "playLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "downloadLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "created_at": "2025-06-29T07:31:59.000000Z",
+        "updated_at": "2025-06-29T07:31:59.000000Z"
       }
-
-]
+    ]
   },
   {
     "id": 6,
     "name": "Adventure",
     "created_at": "2025-06-15T19:44:37.000000Z",
     "updated_at": "2025-06-15T19:44:37.000000Z",
-    "movie": []
+    "movie": [
+      {
+        "id": 22,
+        "category_id": 6,
+        "name": "Flipped",
+        "image": "https://tse2.mm.bing.net/th/id/OIP.yCU5EPKNFf30tYOfI36Q7gHaLH?rs=1&pid=ImgDetMain&o=7&rm=3",
+        "date": "2010",
+        "imdb": "7.7/10",
+        "intro": "Flipped is a 2010 American romantic comedy-drama film co-written and directed by Rob Reiner, and based on Wendelin Van Draanen's 2001 novel of the same name. Starring Callan McAuliffe, Madeline Carroll, Rebecca De Mornay, Anthony Edwards, John Mahoney, Penelope Ann Miller, Aidan Quinn, and Kevin Weisman, the film tells the story of two eighth graders who start to have feelings for each other, despite being total opposites. Flipped was released in theaters in the United States on August 6, 2010, by Warner Bros. Pictures. It garnered lukewarm reviews from critics and grossed $4.3 million against a $14 million budget. It has since garnered a greater appreciation for its realistic portrayal of teenagers and a wider viewership via home video and streaming services, so much so that it is now considered a cult favorite.",
+        "playLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "downloadLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "created_at": "2025-06-29T07:31:15.000000Z",
+        "updated_at": "2025-06-29T07:31:15.000000Z"
+      },
+      {
+        "id": 23,
+        "category_id": 6,
+        "name": "Flipped",
+        "image": "https://tse2.mm.bing.net/th/id/OIP.yCU5EPKNFf30tYOfI36Q7gHaLH?rs=1&pid=ImgDetMain&o=7&rm=3",
+        "date": "2010",
+        "imdb": "7.7/10",
+        "intro": "Flipped is a 2010 American romantic comedy-drama film co-written and directed by Rob Reiner, and based on Wendelin Van Draanen's 2001 novel of the same name. Starring Callan McAuliffe, Madeline Carroll, Rebecca De Mornay, Anthony Edwards, John Mahoney, Penelope Ann Miller, Aidan Quinn, and Kevin Weisman, the film tells the story of two eighth graders who start to have feelings for each other, despite being total opposites. Flipped was released in theaters in the United States on August 6, 2010, by Warner Bros. Pictures. It garnered lukewarm reviews from critics and grossed $4.3 million against a $14 million budget. It has since garnered a greater appreciation for its realistic portrayal of teenagers and a wider viewership via home video and streaming services, so much so that it is now considered a cult favorite.",
+        "playLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "downloadLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "created_at": "2025-06-29T07:31:26.000000Z",
+        "updated_at": "2025-06-29T07:31:26.000000Z"
+      },
+      {
+        "id": 24,
+        "category_id": 6,
+        "name": "Flipped",
+        "image": "https://tse2.mm.bing.net/th/id/OIP.yCU5EPKNFf30tYOfI36Q7gHaLH?rs=1&pid=ImgDetMain&o=7&rm=3",
+        "date": "2010",
+        "imdb": "7.7/10",
+        "intro": "Flipped is a 2010 American romantic comedy-drama film co-written and directed by Rob Reiner, and based on Wendelin Van Draanen's 2001 novel of the same name. Starring Callan McAuliffe, Madeline Carroll, Rebecca De Mornay, Anthony Edwards, John Mahoney, Penelope Ann Miller, Aidan Quinn, and Kevin Weisman, the film tells the story of two eighth graders who start to have feelings for each other, despite being total opposites. Flipped was released in theaters in the United States on August 6, 2010, by Warner Bros. Pictures. It garnered lukewarm reviews from critics and grossed $4.3 million against a $14 million budget. It has since garnered a greater appreciation for its realistic portrayal of teenagers and a wider viewership via home video and streaming services, so much so that it is now considered a cult favorite.",
+        "playLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "downloadLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "created_at": "2025-06-29T07:31:42.000000Z",
+        "updated_at": "2025-06-29T07:31:42.000000Z"
+      }
+    ]
   }
 ]
