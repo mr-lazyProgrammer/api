@@ -1,97 +1,190 @@
 [
   {
-    "id": 1,
-    "name": "Elemental 1",
-    "date": "2023",
-    "imdb": "7/10",
-    "image": "https://pradt.co/media/c-elemental.jpg",
-    "coverImage": "https://pradt.co/media/c-elemental.jpg",
-    "intro": "Elemental is a film about fire and water elements who fall in love in a city of anthropomorphic elements. The film explores themes of identity, culture, and environmentalism, and features the …",
-    "created_at": "2025-06-13T07:56:37.000000Z",
-    "updated_at": "2025-06-13T07:56:37.000000Z",
-    "episode": [
-      {
-        "id": 1,
-        "serie_id": 1,
-        "episode": "Episode 1",
-        "playLink": "https://google.com",
-        "downloadLink": "https://google.com",
-        "created_at": "2025-06-13T07:57:28.000000Z",
-        "updated_at": "2025-06-13T07:57:28.000000Z"
-      },
-      {
-        "id": 2,
-        "serie_id": 1,
-        "episode": "Episode 2",
-        "playLink": "https://google.com",
-        "downloadLink": "https://google.com",
-        "created_at": "2025-06-13T07:57:51.000000Z",
-        "updated_at": "2025-06-13T07:57:51.000000Z"
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "name": "Elemental 2",
-    "date": "2023",
-    "imdb": "7/10",
-    "image": "https://pradt.co/media/c-elemental.jpg",
-    "coverImage": "https://pradt.co/media/c-elemental.jpg",
-    "intro": "Elemental is a film about fire and water elements who fall in love in a city of anthropomorphic elements. The film explores themes of identity, culture, and environmentalism, and features the …",
-    "created_at": "2025-06-13T07:56:46.000000Z",
-    "updated_at": "2025-06-13T07:56:46.000000Z",
-    "episode": [
-      {
-        "id": 3,
-        "serie_id": 2,
-        "episode": "Episode 1",
-        "playLink": "https://google.com",
-        "downloadLink": "https://google.com",
-        "created_at": "2025-06-13T07:58:07.000000Z",
-        "updated_at": "2025-06-13T07:58:07.000000Z"
-      }
-    ]
-  },
-  {
     "id": 3,
-    "name": "Elemental 2",
-    "date": "2023",
-    "imdb": "7/10",
-    "image": "https://pradt.co/media/c-elemental.jpg",
-    "coverImage": "https://pradt.co/media/c-elemental.jpg",
-    "intro": "Elemental is a film about fire and water elements who fall in love in a city of anthropomorphic elements. The film explores themes of identity, culture, and environmentalism, and features the …",
-    "created_at": "2025-06-13T07:56:46.000000Z",
-    "updated_at": "2025-06-13T07:56:46.000000Z",
+    "name": "The Sound Of Your Heart",
+    "date": "2016-2017",
+    "imdb": "8.1/10",
+    "image": "https://th.bing.com/th/id/R.9161464a2e84e3ab6571713cb3ac0509?rik=c3afNejTqFPhNA&riu=http%3a%2f%2ftupersonajefavorito.com%2fwp-content%2fuploads%2f2018%2f12%2fThe-Sound-of-Your-Heart-2.jpg&ehk=ZklQ6oeVozlgcPCiDP7qU44EbqcYN2ejF17FlD%2fpjPI%3d&risl=&pid=ImgRaw&r=0",
+    "intro": "\"The Sound of Your Heart\" is a story about Cho Seok, an aspiring comic writer, and his strange family. It is based on the longest-running webtoon \"Maeum-ui Sori\" in Korea. The show comically follows Jo Suk's ridiculous but hilarious adventures with his girlfriend-turned-wife Ae Bong, their dogs, older brother Jo Joon, and parents. It is a simple yet unrealistic drama that easily makes you forget about reality. ",
+    "created_at": "2025-06-29T07:36:52.000000Z",
+    "updated_at": "2025-06-29T07:36:52.000000Z",
     "episode": [
       {
         "id": 4,
         "serie_id": 3,
         "episode": "Episode 1",
-        "playLink": "https://google.com",
-        "downloadLink": "https://google.com",
-        "created_at": "2025-06-13T07:58:07.000000Z",
-        "updated_at": "2025-06-13T07:58:07.000000Z"
+        "playLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "downloadLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "created_at": "2025-06-29T07:39:53.000000Z",
+        "updated_at": "2025-06-29T07:39:53.000000Z"
+      },
+      {
+        "id": 5,
+        "serie_id": 3,
+        "episode": "Episode 2",
+        "playLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "downloadLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "created_at": "2025-06-29T07:40:17.000000Z",
+        "updated_at": "2025-06-29T07:40:17.000000Z"
+      },
+      {
+        "id": 6,
+        "serie_id": 3,
+        "episode": "Episode 3",
+        "playLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "downloadLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "created_at": "2025-06-29T07:40:28.000000Z",
+        "updated_at": "2025-06-29T07:40:28.000000Z"
       }
     ]
   },
   {
     "id": 4,
-    "name": "Elemental 2",
-    "date": "2023",
-    "imdb": "7/10",
-    "image": "https://pradt.co/media/c-elemental.jpg",
-    "intro": "Elemental is a film about fire and water elements who fall in love in a city of anthropomorphic elements. The film explores themes of identity, culture, and environmentalism, and features the …",
-    "created_at": "2025-06-13T07:56:46.000000Z",
-    "updated_at": "2025-06-13T07:56:46.000000Z",
+    "name": "The Soound of Your Heart",
+    "date": "2016-2017",
+    "imdb": "8.1/10",
+    "image": "https://th.bing.com/th/id/R.9161464a2e84e3ab6571713cb3ac0509?rik=c3afNejTqFPhNA&riu=http%3a%2f%2ftupersonajefavorito.com%2fwp-content%2fuploads%2f2018%2f12%2fThe-Sound-of-Your-Heart-2.jpg&ehk=ZklQ6oeVozlgcPCiDP7qU44EbqcYN2ejF17FlD%2fpjPI%3d&risl=&pid=ImgRaw&r=0",
+    "intro": "\"The Sound of Your Heart\" is a story about Cho Seok, an aspiring comic writer, and his strange family. It is based on the longest-running webtoon \"Maeum-ui Sori\" in Korea. The show comically follows Jo Suk's ridiculous but hilarious adventures with his girlfriend-turned-wife Ae Bong, their dogs, older brother Jo Joon, and parents. It is a simple yet unrealistic drama that easily makes you forget about reality. ",
+    "created_at": "2025-06-29T07:37:53.000000Z",
+    "updated_at": "2025-06-29T07:37:53.000000Z",
     "episode": [
       {
-        "id": 5,
+        "id": 7,
         "serie_id": 4,
         "episode": "Episode 1",
-        "playLink": "https://google.com",
-        "downloadLink": "https://google.com",
-        "created_at": "2025-06-13T07:58:07.000000Z",
-        "updated_at": "2025-06-13T07:58:07.000000Z"
+        "playLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "downloadLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "created_at": "2025-06-29T07:40:40.000000Z",
+        "updated_at": "2025-06-29T07:40:40.000000Z"
+      },
+      {
+        "id": 8,
+        "serie_id": 4,
+        "episode": "Episode 2",
+        "playLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "downloadLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "created_at": "2025-06-29T07:40:53.000000Z",
+        "updated_at": "2025-06-29T07:40:53.000000Z"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "The Soound of Your Heart",
+    "date": "2016-2017",
+    "imdb": "8.1/10",
+    "image": "https://th.bing.com/th/id/R.9161464a2e84e3ab6571713cb3ac0509?rik=c3afNejTqFPhNA&riu=http%3a%2f%2ftupersonajefavorito.com%2fwp-content%2fuploads%2f2018%2f12%2fThe-Sound-of-Your-Heart-2.jpg&ehk=ZklQ6oeVozlgcPCiDP7qU44EbqcYN2ejF17FlD%2fpjPI%3d&risl=&pid=ImgRaw&r=0",
+    "intro": "\"The Sound of Your Heart\" is a story about Cho Seok, an aspiring comic writer, and his strange family. It is based on the longest-running webtoon \"Maeum-ui Sori\" in Korea. The show comically follows Jo Suk's ridiculous but hilarious adventures with his girlfriend-turned-wife Ae Bong, their dogs, older brother Jo Joon, and parents. It is a simple yet unrealistic drama that easily makes you forget about reality. ",
+    "created_at": "2025-06-29T07:38:15.000000Z",
+    "updated_at": "2025-06-29T07:38:15.000000Z",
+    "episode": [
+      {
+        "id": 9,
+        "serie_id": 5,
+        "episode": "Episode 1",
+        "playLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "downloadLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "created_at": "2025-06-29T07:41:09.000000Z",
+        "updated_at": "2025-06-29T07:41:09.000000Z"
+      },
+      {
+        "id": 10,
+        "serie_id": 5,
+        "episode": "Episode 2",
+        "playLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "downloadLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "created_at": "2025-06-29T07:41:20.000000Z",
+        "updated_at": "2025-06-29T07:41:20.000000Z"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "The Soound of Your Heart",
+    "date": "2016-2017",
+    "imdb": "8.1/10",
+    "image": "https://th.bing.com/th/id/R.9161464a2e84e3ab6571713cb3ac0509?rik=c3afNejTqFPhNA&riu=http%3a%2f%2ftupersonajefavorito.com%2fwp-content%2fuploads%2f2018%2f12%2fThe-Sound-of-Your-Heart-2.jpg&ehk=ZklQ6oeVozlgcPCiDP7qU44EbqcYN2ejF17FlD%2fpjPI%3d&risl=&pid=ImgRaw&r=0",
+    "intro": "\"The Sound of Your Heart\" is a story about Cho Seok, an aspiring comic writer, and his strange family. It is based on the longest-running webtoon \"Maeum-ui Sori\" in Korea. The show comically follows Jo Suk's ridiculous but hilarious adventures with his girlfriend-turned-wife Ae Bong, their dogs, older brother Jo Joon, and parents. It is a simple yet unrealistic drama that easily makes you forget about reality. ",
+    "created_at": "2025-06-29T07:38:21.000000Z",
+    "updated_at": "2025-06-29T07:38:21.000000Z",
+    "episode": [
+      {
+        "id": 11,
+        "serie_id": 6,
+        "episode": "Episode 1",
+        "playLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "downloadLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "created_at": "2025-06-29T07:41:30.000000Z",
+        "updated_at": "2025-06-29T07:41:30.000000Z"
+      },
+      {
+        "id": 12,
+        "serie_id": 6,
+        "episode": "Episode 2",
+        "playLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "downloadLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "created_at": "2025-06-29T07:41:42.000000Z",
+        "updated_at": "2025-06-29T07:41:42.000000Z"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "The Soound of Your Heart",
+    "date": "2016-2017",
+    "imdb": "8.1/10",
+    "image": "https://th.bing.com/th/id/R.9161464a2e84e3ab6571713cb3ac0509?rik=c3afNejTqFPhNA&riu=http%3a%2f%2ftupersonajefavorito.com%2fwp-content%2fuploads%2f2018%2f12%2fThe-Sound-of-Your-Heart-2.jpg&ehk=ZklQ6oeVozlgcPCiDP7qU44EbqcYN2ejF17FlD%2fpjPI%3d&risl=&pid=ImgRaw&r=0",
+    "intro": "\"The Sound of Your Heart\" is a story about Cho Seok, an aspiring comic writer, and his strange family. It is based on the longest-running webtoon \"Maeum-ui Sori\" in Korea. The show comically follows Jo Suk's ridiculous but hilarious adventures with his girlfriend-turned-wife Ae Bong, their dogs, older brother Jo Joon, and parents. It is a simple yet unrealistic drama that easily makes you forget about reality. ",
+    "created_at": "2025-06-29T07:38:29.000000Z",
+    "updated_at": "2025-06-29T07:38:29.000000Z",
+    "episode": [
+      {
+        "id": 13,
+        "serie_id": 7,
+        "episode": "Episode 1",
+        "playLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "downloadLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "created_at": "2025-06-29T07:41:52.000000Z",
+        "updated_at": "2025-06-29T07:41:52.000000Z"
+      },
+      {
+        "id": 14,
+        "serie_id": 7,
+        "episode": "Episode 1",
+        "playLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "downloadLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "created_at": "2025-06-29T07:42:01.000000Z",
+        "updated_at": "2025-06-29T07:42:01.000000Z"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "The Soound of Your Heart",
+    "date": "2016-2017",
+    "imdb": "8.1/10",
+    "image": "https://th.bing.com/th/id/R.9161464a2e84e3ab6571713cb3ac0509?rik=c3afNejTqFPhNA&riu=http%3a%2f%2ftupersonajefavorito.com%2fwp-content%2fuploads%2f2018%2f12%2fThe-Sound-of-Your-Heart-2.jpg&ehk=ZklQ6oeVozlgcPCiDP7qU44EbqcYN2ejF17FlD%2fpjPI%3d&risl=&pid=ImgRaw&r=0",
+    "intro": "\"The Sound of Your Heart\" is a story about Cho Seok, an aspiring comic writer, and his strange family. It is based on the longest-running webtoon \"Maeum-ui Sori\" in Korea. The show comically follows Jo Suk's ridiculous but hilarious adventures with his girlfriend-turned-wife Ae Bong, their dogs, older brother Jo Joon, and parents. It is a simple yet unrealistic drama that easily makes you forget about reality. ",
+    "created_at": "2025-06-29T07:38:37.000000Z",
+    "updated_at": "2025-06-29T07:38:37.000000Z",
+    "episode": [
+      {
+        "id": 15,
+        "serie_id": 8,
+        "episode": "Episode 1",
+        "playLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "downloadLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "created_at": "2025-06-29T07:42:11.000000Z",
+        "updated_at": "2025-06-29T07:42:11.000000Z"
+      },
+      {
+        "id": 16,
+        "serie_id": 8,
+        "episode": "Episode 2",
+        "playLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "downloadLink": "https://www.googleapis.com/drive/v3/files/12FwbeV_pW6h1egfnTS9i0TQoN8YWJNZ7?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+        "created_at": "2025-06-29T07:42:21.000000Z",
+        "updated_at": "2025-06-29T07:42:21.000000Z"
       }
     ]
   }
